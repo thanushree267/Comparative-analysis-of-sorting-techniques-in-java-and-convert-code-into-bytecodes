@@ -48,11 +48,3 @@ Each language folder contains the implementations. You can test the algorithms w
 ## 🤝 Contributions
 
 Pull requests are welcome! Feel free to add visualizations, benchmarks, or more sorting algorithms.
-
-## 📁 Structure
-
-```
-sorting-comparative-analysis/
-├── java/
-│   └── SortingAlgorithms.java
-```
