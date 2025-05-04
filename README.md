@@ -1,6 +1,7 @@
 # Comparative Analysis of Sorting Algorithms
 
 This repository presents a comparative analysis of various **sorting algorithms** implemented in **Java**, covering both comparison-based and non-comparison-based techniques.
+The Java code has been converted into assembly code to understand the working of algorithms at a lower level.
 
 ## 🧠 Objective
 
